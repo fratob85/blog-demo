@@ -1,5 +1,5 @@
 {
-  "name": "basic-blog-demo",
+  "name": "blog-demo",
   "version": "1.0.0",
   "description": "Basic Blog Demo",
   "main": "server.js",
